@@ -7,6 +7,7 @@
 * 《OpenGL ES编程指南》
 * 《交互式计算机图形学》
 * 《OpenGL超级宝典》
+* 《3D数学基础》
 ### 高级篇
 * 《Real Time Rendering》
 * 《Physically Based Rendering》
