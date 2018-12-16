@@ -32,5 +32,8 @@
 
 *  2D SDF Combination：[https://www.ronja-tutorials.com/2018/11/17/2d-sdf-combination.html](https://www.ronja-tutorials.com/2018/11/17/2d-sdf-combination.html)
 
+*  GLSL SDF Lib [http://mercury.sexy/hg_sdf/](http://mercury.sexy/hg_sdf/)
+
+
 ## 经典案例
 *  ShaderToy：[https://www.shadertoy.com](https://www.shadertoy.com)
